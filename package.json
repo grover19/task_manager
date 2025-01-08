@@ -1,0 +1,23 @@
+{
+  "name": "task_manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grover19/task_manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grover19/task_manager/issues"
+  },
+  "homepage": "https://github.com/grover19/task_manager#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "hbs": "^4.2.0"
+  }
+}
